@@ -1,0 +1,56 @@
+1961,Uruguay,URY
+1962,Virgin Islands (U.S.),VIR
+1963,Congo, Dem. Rep.,COD
+1964,Argentina,ARG
+1965,Equatorial Guinea,GNQ
+1966,Afghanistan,AFG
+1967,Oman,OMN
+1968,Oman,OMN
+1969,Swaziland,SWZ
+1970,Nigeria,NGA
+1971,Solomon Islands,SLB
+1972,Seychelles,SYC
+1973,Uruguay,URY
+1974,Oman,OMN
+1975,Rwanda,RWA
+1976,Gabon,GAB
+1977,St. Vincent and the Grenadines,VCT
+1978,Liechtenstein,LIE
+1979,Kuwait,KWT
+1980,Switzerland,CHE
+1981,Guinea-Bissau,GNB
+1982,Uganda,UGA
+1983,Costa Rica,CRI
+1984,Maldives,MDV
+1985,Central African Republic,CAF
+1986,Vietnam,VNM
+1987,Uganda,UGA
+1988,Zambia,ZMB
+1989,Angola,AGO
+1990,Iraq,IRQ
+1991,Gambia, The,GMB
+1992,Kuwait,KWT
+1993,Cambodia,KHM
+1994,Nicaragua,NIC
+1995,Rwanda,RWA
+1996,Equatorial Guinea,GNQ
+1997,Equatorial Guinea,GNQ
+1998,Turkey,TUR
+1999,Equatorial Guinea,GNQ
+2000,Congo, Dem. Rep.,COD
+2001,Serbia,SRB
+2002,Malawi,MWI
+2003,Myanmar,MMR
+2004,Equatorial Guinea,GNQ
+2005,Equatorial Guinea,GNQ
+2006,Cayman Islands,CYM
+2007,Isle of Man,IMN
+2008,Nauru,NRU
+2009,Zimbabwe,ZWE
+2010,Nigeria,NGA
+2011,Nauru,NRU
+2012,Nauru,NRU
+2013,Sierra Leone,SLE
+2014,Ethiopia,ETH
+2015,Sudan,SDN
+2016,Iceland,ISL
